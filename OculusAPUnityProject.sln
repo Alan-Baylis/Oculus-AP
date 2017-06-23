@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OculusAPUnityProject", "OculusAPUnityProject.csproj", "{D825D6DC-D252-C2BC-D2FF-37A6F99B619A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OculusAPUnityProject.Editor", "OculusAPUnityProject.Editor.csproj", "{934B308B-9BC4-EEF1-4B15-BA21A29F4128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D825D6DC-D252-C2BC-D2FF-37A6F99B619A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D825D6DC-D252-C2BC-D2FF-37A6F99B619A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D825D6DC-D252-C2BC-D2FF-37A6F99B619A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D825D6DC-D252-C2BC-D2FF-37A6F99B619A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934B308B-9BC4-EEF1-4B15-BA21A29F4128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934B308B-9BC4-EEF1-4B15-BA21A29F4128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934B308B-9BC4-EEF1-4B15-BA21A29F4128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934B308B-9BC4-EEF1-4B15-BA21A29F4128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
